@@ -1,0 +1,47 @@
+_repo: Fantasy_67143
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Harland, Henry
+    alias: Luska, Sidney
+    birthdate: 1861
+    deathdate: 1905
+    gutenberg_agent_id: '1810'
+    url: http://www.gutenberg.org/2009/agents/1810
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Harland
+  - agent_name: Sylvester, Paul
+    gutenberg_agent_id: '54128'
+    url: http://www.gutenberg.org/2009/agents/54128
+creator:
+  author:
+    agent_name: Serao, Matilde
+    aliases:
+    - Serao-Scarfoglia, Matilde
+    - Scarfoglia, Matilde Serao
+    birthdate: 1856
+    deathdate: 1927
+    gutenberg_agent_id: '7688'
+    url: http://www.gutenberg.org/2009/agents/7688
+    wikipedia:
+    - https://it.wikipedia.org/wiki/Matilde_Serao
+    - https://en.wikipedia.org/wiki/Matilde_Serao
+description: ''
+gutenberg_issued: '2022-01-11'
+identifiers:
+  gutenberg: '67143'
+language: en
+pgterms:marc904: https://archive.org/details/battlefieldsofth00ashmrich/page/n5
+pgterms:marc905: 20190114160858serao
+pgterms:marc906: '1891'
+pgterms:marc907: GB
+production_note: Andrés V. Galia, Ed Leckert and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United Kingdom :William Heinemann,1891.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Fantasy
+url: http://www.gutenberg.org/ebooks/67143
