@@ -12,6 +12,9 @@ contributor:
   - agent_name: Sylvester, Paul
     gutenberg_agent_id: '54128'
     url: http://www.gutenberg.org/2009/agents/54128
+covers:
+- cover_type: archival
+  image_path: 67143-h/images/cover.jpg
 creator:
   author:
     agent_name: Serao, Matilde
@@ -26,6 +29,8 @@ creator:
     - https://it.wikipedia.org/wiki/Matilde_Serao
     - https://en.wikipedia.org/wiki/Matilde_Serao
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67143#Fantasy
 gutenberg_issued: '2022-01-11'
 identifiers:
   gutenberg: '67143'
